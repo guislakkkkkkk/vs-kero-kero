@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "idle",
+	"idle_anim": "idle",
+	"position": [
+		0,
+		12
+	],
+	"scale": 1,
+	"image": "keroshi",
+	"flipX": false
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontbop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frontbop0000" x="0" y="0" width="1862" height="781"/>
+	<SubTexture name="frontbop0001" x="0" y="0" width="1862" height="781"/>
+	<SubTexture name="frontbop0002" x="1874" y="0" width="1862" height="781"/>
+	<SubTexture name="frontbop0003" x="1874" y="0" width="1862" height="781"/>
+	<SubTexture name="frontbop0004" x="0" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0005" x="0" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0006" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0007" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0008" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0009" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0010" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0011" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0012" x="1874" y="793" width="1862" height="781"/>
+	<SubTexture name="frontbop0013" x="1874" y="793" width="1862" height="781"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				67
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dumb idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				70
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "dumb laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				62
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "dumb point",
+			"indices": []
+		},
+		{
+			"offsets": [
+				68,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dumb right"
+		},
+		{
+			"offsets": [
+				104,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dumb up"
+		},
+		{
+			"offsets": [
+				228,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dumb left"
+		},
+		{
+			"offsets": [
+				90,
+				-122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dumb down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KEROSHI_ASSETS-1",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "keroshi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		52,
+		52
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

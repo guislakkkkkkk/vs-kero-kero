@@ -1,0 +1,31 @@
+{
+	"storyName": "KeroKero Underground ft. Honkish",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "shibuya",
+	"freeplayColor": [
+		21,
+		1,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"murder-dance",
+			"keroshi",
+			[
+				253,
+				31,
+				41
+			]
+		]
+	],
+	"weekCharacters": [
+		"keroshi",
+		"bf",
+		"gf"
+	],
+	"weekName": "VS Keroshi"
+}
